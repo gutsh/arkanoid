@@ -1,0 +1,9 @@
+#canvas-container {
+    box-sizing: border-box;
+    height: 100vh;
+}
+
+#game-field {
+    margin: 0 auto;
+    border: 2px solid black;
+}
